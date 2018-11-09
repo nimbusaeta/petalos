@@ -1,0 +1,316 @@
+    acantocéfalo, la
+    acéfalo, la
+    álalo, la
+    ámalo, la
+    anacalo, la
+    anisopétalo, la
+    anómalo, la
+    apétalo, la
+    arrepápalo
+    asépalo, la
+    astrágalo
+    balo
+    barbirralo
+    bicéfalo, la
+    bonítalo
+    braquicéfalo, la
+    búbalo, la
+    bucéfalo
+    búfalo, la
+    calo
+    calocéfalo, la
+    cándalo
+    carepalo
+    céfalo
+    cefalo-, -céfalo, la
+    cémbalo
+    cénzalo
+    cernícalo
+    chagualo
+    címbalo
+    cinocéfalo
+    clavicémbalo
+    clavicímbalo
+    críalo
+    crótalo
+    dédalo
+    destartalo
+    dialipétalo, la
+    dialisépalo, la
+    dipétalo, la
+    disépalo, la
+    dolicocéfalo, la
+    embalo
+    encalo
+    encéfalo
+    escalo
+    escándalo
+    escualo
+    estalo
+    falo
+    galo, la
+    gámbalo
+    gamopétalo, la
+    gamosépalo, la
+    guazalo
+    guilalo
+    halo
+    heliogábalo
+    hidrocéfalo, la
+    intervalo
+    ítalo, la
+    jándalo, la
+    macrocéfalo, la
+    malo, la
+    matapalo
+    mesocéfalo, la
+    microcéfalo, la
+    mízcalo
+    monopétalo, la
+    monosépalo, la
+    murciégalo
+    níscalo
+    onocrótalo
+    ópalo
+    óvalo
+    oxipétalo
+    págalo
+    palo
+    pasagonzalo
+    pasapalo
+    pejepalo
+    perpalo
+    pétalo
+    pezpalo
+    pezpítalo
+    policéfalo, la
+    polipétalo, la
+    polisépalo, la
+    ralo, la
+    regalo
+    repápalo
+    robalo
+    róbalo
+    sábalo
+    sándalo
+    sépalo
+    simpétalo, la
+    sinsépalo, la
+    sobrepalo
+    tagalo, la
+    talo1; talo2
+    tántalo1; tántalo2
+    tápalo
+    tépalo
+    termocéfalo, la
+    tésalo, la
+    tímalo
+    tíndalo
+    titímalo
+    tórsalo
+    tricéfalo, la
+    vándalo, la
+    varapalo
+    zambapalo
+    zampapalo
+    zócalo
+    abuelo, la
+    aceruelo
+    -achuelo, la
+    aeromodelo
+    albarelo
+    alelo
+    amelo
+    anapelo
+    Anchuelo
+    anhelo
+    antiparalelo, la
+    anzuelo
+    aquelo
+    arañuelo
+    asfódelo
+    bastardelo
+    bisabuelo, la
+    bizcochuelo
+    boezuelo
+    brazuelo
+    buñuelo
+    cachelo
+    cachuelo
+    calcañuelo
+    camachuelo
+    camelo
+    canelo, la
+    canguelo
+    capelo
+    caramelo
+    carpelo
+    cascajuelo, la
+    castañuelo, la
+    celo1; celo2
+    cerbelo
+    cerebelo
+    chamelo
+    chapelo
+    chelo1; chelo2, la
+    chimuelo, la
+    cielo
+    cinchuelo
+    ciruelo
+    cojuelo
+    consuelo
+    contrapelo
+    corezuelo
+    cornezuelo
+    corpezuelo
+    corzuelo
+    cotobelo
+    covachuelo
+    crecepelo
+    cribelo
+    crisuelo
+    cuerezuelo
+    demoñuelo
+    dentezuelo
+    derechuelo
+    desconsuelo
+    deshielo
+    desvelo
+    duelo1; duelo2
+    -ecezuelo, la
+    -elo, la
+    entrecielo
+    entresuelo
+    escabelo
+    escalpelo
+    escañuelo
+    escarabajuelo
+    escarpelo
+    esfacelo
+    esfácelo
+    espejuelo
+    estelo
+    estercuelo
+    -ezuelo, la
+    faceruelo
+    facistelo
+    falcinelo
+    ferreruelo
+    fijapelo
+    flabelo
+    flagelo
+    flojuelo
+    fornelo
+    frisuelo1; frisuelo2
+    garbanzuelo
+    garranchuelo
+    gazpachuelo
+    gemelo, la
+    gordezuelo, la
+    grelo
+    grosezuelo, la
+    guardapelo
+    gurumelo
+    harneruelo
+    herreruelo1; herreruelo2
+    herrezuelo
+    hielo
+    hijuelo
+    horuelo
+    hoyuelo
+    -huelo, la
+    -ichuelo, la
+    indezuelo, la
+    isabelo, la
+    Juanelo
+    ladronzuelo, la
+    lelo, la
+    lenzuelo
+    libelo
+    liñuelo
+    locuelo, la
+    macarelo
+    macelo
+    machuelo
+    majuelo1; majuelo2
+    mantelo
+    martelo
+    masmelo
+    matihuelo
+    mazuelo
+    mochuelo1; mochuelo2
+    modelo
+    monuelo, la
+    morteruelo
+    moyuelo
+    mozuelo, la
+    muelo
+    napelo
+    negozuelo
+    nervezuelo
+    netezuelo, la
+    novelo
+    óbelo
+    ocelo
+    orzuelo1; orzuelo2
+    osezuelo
+    pañizuelo
+    pañuelo
+    paralelo, la
+    patalsuelo
+    pedicelo
+    pelo
+    pezuelo
+    picahielo
+    piñuelo
+    piojuelo
+    pispelo
+    polluelo
+    pomelo
+    pontezuelo
+    porcipelo
+    portachuelo
+    portezuelo
+    portichuelo
+    pospelo
+    pozuelo
+    prisuelo
+    rayuelo
+    rebisabuelo, la
+    recelo
+    recuelo
+    redopelo
+    redropelo
+    repelo
+    retornelo
+    revuelo
+    reyezuelo
+    riachuelo
+    ritornelo
+    robapelo
+    rodapelo
+    saltarelo
+    sanguiñuelo
+    sayuelo
+    señuelo
+    serrasuelo
+    sobrecielo
+    sobrepelo
+    sobresuelo
+    subsuelo
+    suelo
+    supermodelo
+    tajuelo
+    tatarabuelo, la
+    tejuelo
+    terciopelo
+    terzuelo
+    tinelo
+    tochuelo
+    torchuelo
+    torteruelo
+    torzuelo
+    tozuelo
+    trasabuelo, la
+    -uelo, la
+    urodelo
