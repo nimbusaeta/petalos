@@ -1,6 +1,6 @@
 # Pétalos
 
-Este proyecto está explicado en el post Buscando imperativos ambiguos o cómo hacer la cencia del humor con Python.
+Este proyecto está explicado en el post [Buscando imperativos ambiguos o cómo hacer la cencia del humor con Python](https://medium.com/@nimbusaeta/buscando-imperativos-ambiguos-bd922ddb1079).
 
 Los scripts y archivos de texto de este repo están pensados para ejecutarse en orden:
 
