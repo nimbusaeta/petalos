@@ -4,7 +4,7 @@ archivo_sustantivos = open("0101_raw_rae.txt", "r") # Abrimos el archivo en que 
 lista_sustantivos = archivo_sustantivos.readlines() # Guardamos cada línea en la lista lista_sustantivos
 archivo_sustantivos.close() # Cerramos el archivo
 
-lista_sustantivos_limpia = [] # Declaramos la lista en la que guardaremos los sustantivos una ves limpitos
+lista_sustantivos_limpia = [] # Declaramos la lista en la que guardaremos los sustantivos una vez limpitos
 for linea in lista_sustantivos:
 	linea = re.sub("    ", "", linea) # Porque salen 4 espacios al principio cuando copipegas desde la web de la RAE
 	linea = re.sub(", la", "", linea) # Quitamos la marca de género femenino
